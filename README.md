@@ -78,9 +78,8 @@ b. Windows:
 c. Linux:  
    - Instructions [here](https://git-scm.com/download/linux)  
 
-### Git LFS
+### Git LFS (large file storage)  
 For details, see [here](https://git-lfs.com/)  
-
 
 a. Mac OS:  
    - Using [Homebrew](https://brew.sh/): `brew install git-lfs`   
@@ -91,4 +90,7 @@ b. Windows:
 
 c. Linux:  
    - Instructions [here](https://github.com/git-lfs/git-lfs/blob/main/INSTALLING.md)  
+
+Once installed, set up Git LFS for your user account by running:
+`git lfs install`
 
