@@ -70,7 +70,7 @@ For details, see [here](https://git-scm.com/downloads)
 
 a. Mac OS:  
    - Using [Homebrew](https://brew.sh/): `brew install git`   
-   - Using [MacPorts](https://www.macports.org/) `sudo port install git`   
+   - Using [MacPorts](https://www.macports.org/): `sudo port install git`   
 
 b. Windows:  
    - Download installer [here](https://git-scm.com/download/win)  
@@ -84,7 +84,7 @@ For details, see [here](https://git-lfs.com/)
 
 a. Mac OS:  
    - Using [Homebrew](https://brew.sh/): `brew install git-lfs`   
-   - Using [MacPorts](https://www.macports.org/) `port install git-lfs`   
+   - Using [MacPorts](https://www.macports.org/): `port install git-lfs`   
 
 b. Windows:  
    - Git LFS is included in the distribution of Git for Windows  
