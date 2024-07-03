@@ -63,16 +63,32 @@ b. [Posit Cloud](https://posit.cloud/plans/free)
 
 
 ## Additional requirements
-To allow cloning of project repositories from within RStudio, you will need to have git and (optionally) git-lfs installed on your system.  
-For details, see [here](https://git-scm.com/downloads).  
+To allow cloning of project repositories from within RStudio, you will need to have Git and (optionally) Git LFS installed on your system. 
+
+### Git
+For details, see [here](https://git-scm.com/downloads)  
+
 a. Mac OS:  
    - Using [Homebrew](https://brew.sh/): `brew install git`   
    - Using [MacPorts](https://www.macports.org/) `sudo port install git`   
 
 b. Windows:  
    - Download installer [here](https://git-scm.com/download/win)  
-    
+
 c. Linux:  
    - Instructions [here](https://git-scm.com/download/linux)  
 
+### Git LFS
+For details, see [here](https://git-lfs.com/)  
+
+
+a. Mac OS:  
+   - Using [Homebrew](https://brew.sh/): `brew install git-lfs`   
+   - Using [MacPorts](https://www.macports.org/) `port install git-lfs`   
+
+b. Windows:  
+   - Git LFS is included in the distribution of Git for Windows  
+
+c. Linux:  
+   - Instructions [here](https://github.com/git-lfs/git-lfs/blob/main/INSTALLING.md)  
 
