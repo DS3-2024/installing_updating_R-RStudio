@@ -68,8 +68,10 @@ For details, see [here](https://git-scm.com/downloads).
 a. Mac OS:  
    - Using [Homebrew](https://brew.sh/): `brew install git`   
    - Using [MacPorts](https://www.macports.org/) `sudo port install git`   
+
 b. Windows:  
-   - Download installer [here](https://git-scm.com/download/win)   
+   - Download installer [here](https://git-scm.com/download/win)  
+    
 c. Linux:  
    - Instructions [here](https://git-scm.com/download/linux)  
 
